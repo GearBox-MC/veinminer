@@ -1,0 +1,14 @@
+id = "gearbox_veinminer"
+name = "Vein Miner"
+version = "0.1.0"
+description = "Hold the vein key while breaking a block to mine the whole connected vein, or dig in shapes (3x3, 5x5, tunnels, staircases). Enchantments apply per block and each block costs hunger. Inspired by FTB Ultimine; an independent reimplementation."
+authors = ["HerculeWu"]
+# A wasm mod: Rust in src/, built to mod.wasm by `cargo horizon-mod build --wasm` against the SDK build Cargo.toml pins, beside data/ and assets/.
+api = "0.2"
+side = "both"
+# registries: "May add blocks, items, mob effects and entity types to your worlds".
+capabilities = ["registries"]
+
+[wasm]
+sha512 = "5c6e1698270a2f4b25405a154c67fb4c45a6aeb9d2db93f6673379448c67d4f39a8d498a718a6d3052bab8295521c5c1634dc55fcb9bc555e6bb852c3e456d4c"
+toolchain = "1.99.1 58cf8f9c35b355199727627d07ae34a4e2846d67"

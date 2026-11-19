@@ -1,0 +1,5 @@
+target/
+.horizon/
+mod.wasm
+screenshots/
+*.minisig

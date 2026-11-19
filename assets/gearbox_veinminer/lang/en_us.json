@@ -1,0 +1,15 @@
+{
+  "key.category.veinminer": "Vein Miner",
+  "key.veinminer.activate": "Vein mine (hold)",
+  "key.veinminer.cycle_shape": "Cycle vein shape",
+  "veinminer.shape.shapeless": "Shapeless",
+  "veinminer.shape.small_tunnel": "Small tunnel 1×2",
+  "veinminer.shape.tunnel_3x3": "3×3 tunnel",
+  "veinminer.shape.mining_tunnel": "Mining tunnel",
+  "veinminer.shape.square_3x3": "Square 3×3",
+  "veinminer.shape.square_5x5": "Square 5×5",
+  "veinminer.shape.stairs_up": "Escape tunnel / Staircase up",
+  "veinminer.shape.stairs_down": "Staircase down",
+  "veinminer.hud.count": "Vein [%s]: %s blocks",
+  "veinminer.hud.shape": "Vein [%s]"
+}

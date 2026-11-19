@@ -1,0 +1,15 @@
+{
+  "key.category.veinminer": "连锁挖掘",
+  "key.veinminer.activate": "连锁挖掘（按住）",
+  "key.veinminer.cycle_shape": "切换连锁形状",
+  "veinminer.shape.shapeless": "无形状",
+  "veinminer.shape.small_tunnel": "小隧道 1×2",
+  "veinminer.shape.tunnel_3x3": "3×3 隧道",
+  "veinminer.shape.mining_tunnel": "采矿隧道",
+  "veinminer.shape.square_3x3": "平面 3×3",
+  "veinminer.shape.square_5x5": "平面 5×5",
+  "veinminer.shape.stairs_up": "逃生隧道/向上阶梯",
+  "veinminer.shape.stairs_down": "向下阶梯",
+  "veinminer.hud.count": "连锁挖掘 [%s]：%s 个方块",
+  "veinminer.hud.shape": "连锁挖掘 [%s]"
+}
